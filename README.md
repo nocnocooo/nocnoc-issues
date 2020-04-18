@@ -1,5 +1,5 @@
 # nocnoc-issues
-### A open issue tracker for nocnoc
+### An open issue tracker for nocnoc
 
 ![Nockey get a bug][nockeyImage]
 
@@ -7,7 +7,7 @@ Thank you for checking out nocnoc's issue tracker!
 [nocnoc][nocnocWebLink] is the instant group chat that you can invite friends via URL without signup, currently available for iOS app and web app.
 Our mission is to provide a comfortable and exciting conversation space.
 
-Since we are a 3-person team,feedback from the user community is extremely helpful.
+Since we are a 3-person team, feedback from the user community is extremely helpful.
 
 We'd love to receive any small bug reports and feature requests.
 
